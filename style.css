@@ -1,0 +1,42 @@
+body{
+  background-color: darkgrey;
+  text-decoration: none;
+  font-family: "Verdana",Arial, monospace;
+}
+
+nav {
+  float: left;
+  padding:  1em;}
+
+div.nav-tab
+{
+  background-color: lightgrey;
+  border-style: solid;
+  height: 25px;
+  width: 100px;
+}
+
+div.nav-tab:hover
+{
+  background-color: cyan;
+}
+h1{
+  float: center;
+
+}
+
+span > p{
+  border:3px solid black;
+  width: 151px;
+  height:100px;
+  font-size: 200%;
+  background-color: lightgrey;
+  float: left;
+  text-decoration: none;
+}
+
+#para{float:left; }
+
+ #image{
+  float:right;
+}
